@@ -8,7 +8,33 @@ This problem is for learning purposes only. It serves no real purpose beyond lea
 
 ## 💻 Project Demo   
 
+Since this is a simplified implementation of the redis server, you can interact with it locally by using the `redis-cli` utility. Make sure the server is running on the default port 6379.
 
+https://github.com/lucasamonrc/redis-clone/assets/53352488/2eaa6031-6091-436a-aad9-66f19053a22c
+
+**PING**
+
+https://github.com/lucasamonrc/redis-clone/assets/53352488/7dd2ddc1-8cfd-4fe0-986b-c4c11a0de755
+
+**ECHO**
+
+https://github.com/lucasamonrc/redis-clone/assets/53352488/7399387a-0015-4073-be67-1dfa8815d180
+
+**SET**
+
+https://github.com/lucasamonrc/redis-clone/assets/53352488/11427644-42fc-447e-8ab6-8c79964a73ea
+
+**GET**
+
+https://github.com/lucasamonrc/redis-clone/assets/53352488/da5f706e-fd91-43e5-bc91-733cd514a402
+
+**SET PX**
+
+https://github.com/lucasamonrc/redis-clone/assets/53352488/fbc59a68-c296-4566-96df-e06bcf071bf5
+
+**GET PX**
+
+https://github.com/lucasamonrc/redis-clone/assets/53352488/4eea0fb1-8284-4a51-b1f4-150ff105f575
 
 ## 🚀 Technology Stack
 
